@@ -1,0 +1,1059 @@
+.students-scroll {
+    margin-top: 20px;
+    float: right;
+    width: 30% !important;
+}
+
+.student img{
+  width: 60px !important;
+}
+
+.carousel-inner {
+    margin-top: 20px;
+}
+
+
+.top-header {
+    background-color: #dedede;
+}  
+.contact {
+    float: left;
+}
+.email {
+    float: center;
+}
+
+.contact, .email{
+    color:#fff;
+    font-size:15px;
+    font-weight: bold;
+    width: 100%;
+    float: left;
+    margin-top: 1px;  
+    margin-left: 24px;
+    padding: 4px;
+}
+
+.social {
+    float: right;
+}
+
+.navbar.navbar-default {
+    border: none;
+    background: none;
+    margin-bottom: 0px !important;
+}
+
+.main-menu {
+    float: right;
+    width: 108%;
+}
+
+.logo img {
+   width: 37%;
+   margin-left: 61%;
+}
+
+.logo {
+    width: 45%;
+    float: left !important;    
+}
+
+.nav li a  {
+    color: #fff !important;
+    font-size: 18px;
+}
+
+.nav li.active > a  {
+    color: #f97335 !important;
+}
+
+.nav li:hover > a  {
+    color: #f97335 !important;
+}
+
+footer {
+    background-color: #40aed2;
+    padding: 5px 20px;
+}
+
+.footer li {
+
+    display: inherit;
+    color: #ffe100;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+
+.footer2 li {
+
+    color: #f0d71b;
+    font-size: 16px;
+
+}
+
+.footer1 {
+    background: #dedede;
+    padding: 5px;
+    text-align: center
+}
+
+.maincontect {
+    background: #dedede;
+}
+
+.contect-main {
+    margin: 10px;
+}
+
+.OurCustomers {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 50px;
+}
+
+.social-icon {
+    float: right;
+    display: inline-flex;
+    padding-right: 69px;
+}
+
+.top-header .social {
+    width: 100%;
+    text-align: right;
+}
+
+.social-icon li {
+    padding: 0px 18px;
+    line-height: 42px;
+    background: #715748;
+    border-right: 1px solid #bba9a9;
+    color: #fff;
+    display: block;
+    transition: all 5s ease;
+}
+
+a#scrollup {
+    float: right;
+    background-color: black;
+    padding: 12px;
+    position: fixed;
+    bottom: 46px;
+    right: 20px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fff;
+    z-index: 999;
+    box-shadow: 0px 0px 4px 1px;
+}
+.sticky + .content {
+  padding-top: 102px;
+}
+
+.title-name{
+    font-weight: bold;
+    line-height: 42px;
+    color: #2a5d2e !important;
+    display: block;
+    transition: all 5s ease;
+    font-size: 40px;
+    padding-left: 40px;
+}
+
+.sub-title {
+    padding: 4px;
+    color: #2da0e9 !important;
+    font-size: 21px;
+    margin-left: 19px;
+}
+
+.sub-title-names {
+    width: 55%;
+    margin: 18px;
+}
+
+.sub-address {
+    font-size: 12px;
+    margin-left: 41px;
+    margin-bottom: 10px;
+}
+
+.page-header {
+    margin: 0px 0 20px !important;
+    text-align: center;
+    color: #4648c5;
+    font-size: 20px;
+}
+
+.row .product {
+    margin: 10px;
+    border: 1px solid;
+    background: #e0e0e0;
+}
+
+.img-vd-container {
+    padding: 10px;
+}
+
+.title.ng-link {
+    color: #dedc2c;
+    text-decoration: none;
+}
+
+.title-sec {
+   text-align: center;
+    background: #fb0000;
+    padding: 10px;
+    color: #d7e40e;
+    border: 1px solid #000;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.sand {
+    color: #f69008;
+}
+
+.right-colcode {
+    background: #2c57ea;
+}
+
+.end-colcode {
+    background: #db58ca;
+    border-left: 5px solid #fff;
+}
+
+.bna {
+    width: 85%;
+    margin-left: 18px;
+}
+
+.menu-header {
+    background: red;
+}
+
+.slider-box {
+    background: #f8f5df;
+    margin-top: 40px;
+    padding-left: 12px;
+    padding-bottom: 25px;
+}
+
+
+.slider-box li {
+    color: #1f00bc;
+    margin: 9px;
+    font-size: 11.4px;
+}
+
+.slider-box u {
+    font-size: 15px;
+    margin-left: 14px;
+}
+
+.more-details {
+    background: #a05ec3;
+    color: #ffec1e;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    margin-right: 8px;
+}
+
+.slider-box h5 {
+    margin-bottom: 0px !important;
+    text-align: center;
+    color: red;
+}
+
+.bar-navbar {
+
+    background: #eaeaea;
+
+}
+.bar-navbar ul a {
+
+    color: #000 !important;
+    font-size: 14px !important;
+
+}
+
+.bar-navbar li:hover > a {
+        background: none; 
+}
+
+
+.strip-inner li {
+
+    padding: 6px;
+    display: inline-flex;
+    color: #fff;
+}
+
+
+.strip-inner li:hover > a {
+    text-decoration: none;
+    color: #000 !important;
+
+}
+
+.strip-inner a {
+
+    color: #fff !important;
+}
+
+.strip-inner li.active > a {
+    color: #f97335 !important;
+}
+
+
+.inner-strip li {
+    padding: 10px;
+    display: inline-flex;
+}
+
+.inner-strip a {
+    color: #000 !important;
+}
+
+.rated {
+    width: 140%;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.product-img {
+    width: 100%;
+}
+
+.product-tap h3 {
+    text-align: center;
+    color: #47c86c;
+    margin-top: 0px !important;
+}
+
+.img-product {
+    width: 50%;
+    margin-left: 25%;
+    display: none;
+}
+
+.deal-content-sec {
+    background: #cde4da;
+    padding: 10px;
+}
+
+.deal-content-sec p {
+    color: #0c138f;
+    font-size: 12px;
+}
+
+.deal-content-sec .ct-visit {
+    color: #dd1a1a !important;
+    padding: 6px 3px;
+}
+
+.deal-content-sec1 {
+    background: #f588e7;
+    padding: 10px;
+}
+
+.deal-content-sec1 p {
+    color: #fff;
+    font-size: 12px;
+}
+
+.deal-content-sec1 .ct-visit {
+    color: #ffec96 !important;
+    padding: 6px 3px;
+}
+
+
+.deal-content-sec2 {
+    background: #128406;
+    padding: 10px;
+}
+
+.deal-content-sec2 p {
+    color: #ffea05;
+    font-size: 12px;
+}
+
+.deal-content-sec2 .ct-visit {
+    color: #fff !important;
+    padding: 6px 3px;
+}
+
+
+.deal-content-sec3 {
+    background: #ec163b;
+    padding: 10px;
+}
+
+.deal-content-sec3 p {
+    color: #ffea05;
+    font-size: 12px;
+}
+
+.deal-content-sec3 .ct-visit {
+    color: #fff !important;
+    padding: 6px 3px;
+}
+
+.deal-content-sec4 {
+    background: #b8cf1e;
+    padding: 10px;
+}
+
+.deal-content-sec4 p {
+    color: #0c138f;
+    font-size: 12px;
+   margin-bottom: 29px;
+}
+
+.deal-content-sec4 .ct-visit {
+    color: #dd1a1a !important;
+    padding: 6px 3px;
+}
+
+
+.deal-content-sec5 {
+    background: #082b68;
+    padding: 10px;
+}
+
+.deal-content-sec5 p {
+    color: #fff;
+    font-size: 12px;
+    margin-top: 16px;
+}
+
+.deal-content-sec5 .ct-visit {
+    color: #fff !important;
+    padding: 6px 3px;
+}
+
+.fee-structure {
+
+    color: #337ab7;
+
+}
+
+.page-header1 {
+
+    margin: 20px 0 20px !important;
+    text-align: center;
+    color: #4648c5;
+    font-size: 30px;
+}
+
+.folio-image {
+
+    margin-top: 59px;
+
+}
+
+.other-courses {
+    margin-top: 55px;
+    background: #40aed2;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+}
+
+.detail_data {
+    text-align: justify;
+}
+
+.mneu-header {
+
+    background: red;
+
+}
+
+.projects {
+
+    padding: 5px 75px;
+
+}
+
+.slider-box-left img{
+  margin-top: 70px;
+}
+
+/* Start About CSS*/
+
+.home_detail_title {
+    color: #ff5100;
+}
+
+.cps-service-text {
+
+    padding-bottom: 5px;
+}
+
+.imgAlgnS33 {
+    height: 120px;
+    width: 87%;
+    margin: 10px;
+}
+
+.about-data {
+
+    text-align: justify;
+
+}
+
+/* end About CSS*/
+
+/* Start Gallery CSS*/
+
+#service {
+    padding: 10px;
+}
+
+.row.rowPadng {
+    padding: 20px;
+}
+
+.imgAlgnS3 {
+    height: 150px;
+   /* width: 40%;*/
+    margin: 10px;
+}
+
+.list-inline li {
+    margin-bottom: 15px;
+}
+
+.cps-service.style-5 {
+    text-align: center;
+    background: #e7e7e7;
+}
+
+.sctn1IcnBg {
+    overflow: hidden;
+    display: inline-block;
+}
+.sctn1IcnBg img {
+    transition: transform .2s;
+}
+
+.sctn1IcnBg img:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+
+.img_inr {
+
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.img_inr img {
+    width: 50%;
+    padding: 27px;
+}
+
+.imgAlgnS {
+
+    width: 100%;
+
+}
+
+/* Start Gallery CSS*/
+
+
+@media screen and (max-width: 980px) {
+    .sub-address {
+            margin-left: 30px !important;
+            margin-bottom: 15px !important;
+            font-size: 12px !important;
+          }
+
+          .sub-title {
+               font-size: 12px !important;
+               margin-left: 50px !important;
+           }   
+                             
+           .slider-box li {
+             font-size: 28px !important;
+            }
+
+             .strip-inner a {
+                   color: #fff !important;
+                   font-size: 25px !important;
+             }
+
+           .title-name {
+                font-size: 20px !important;
+                padding-left: 20px !important;
+            }
+
+            .bna {
+               width: 62% !important;
+               margin-left: 20% !important;
+               margin-top: 10px !important;
+            }
+
+            .product-tap {
+                margin-top: 30px !important;
+            }
+
+            .page-header {
+              margin: 10px 0 20px !important;
+                text-align: center;
+                font-size: 45px !important;
+                padding-bottom: 7px !important;
+            }
+
+            .logo {
+                width: 20% !important;
+                float: left !important;
+            }
+
+            .logo img {
+                width: 100% !important;
+                margin-left: 0% !important;
+             }
+
+            .strip-inner li {
+                padding: 7px !important;
+             }
+
+             .inner-strip li {
+                padding: 7px !important;
+             }
+
+             .contact, .email{
+                margin-left: 0px !important;
+                font-size: 25px;
+            }
+
+            .sub-title-names {
+                width: 80% !important;
+            }
+
+            .rated {
+              width: 75% !important;
+                margin-top: 10px !important;
+                margin-left: 20% !important;
+            }
+
+            .img-product {
+                width: 100% !important;
+                margin-left: 0% !important;
+            }
+
+            .other-courses {
+                margin-top: 15px !important;
+                   font-size: 30px !important;
+            }
+
+            .deal-content-sec p,.deal-content-sec1 p,.deal-content-sec2 p,.deal-content-sec3 p,.deal-content-sec4 p,.deal-content-sec5 p {
+                 font-size: 25px !important;
+             }
+ 
+             .deal-content-sec .ct-visit,.deal-content-sec1 .ct-visit,.deal-content-sec2 .ct-visit,.deal-content-sec3 .ct-visit,.deal-content-sec4 .ct-visit,.deal-content-sec5 .ct-visit {
+                 font-size: 25px !important;
+             }
+            
+              .slider-box-right .img-responsive {
+                  margin-left: auto;
+                 margin-right: auto;
+                 width: 50%;
+              }
+              
+               .slider-box-left img {
+                     margin-left: auto;
+                     margin-right: auto;
+                     width: 50%;
+                 }
+
+              .fee-structure {
+                   font-size: 20px !important;
+               } 
+              
+             .detail_data{
+                      font-size: 25px !important;
+                      text-align: justify;
+              }
+             .title-sec {
+                  font-size: 35px;
+             }
+             .imgAlgnS3 {
+                height: 154px  !important;
+              /* width: 130px  !important;*/
+              margin: 10px  !important;
+           }
+           .row.rowPadng {
+            padding: 0px  !important;
+        }
+        
+         .about-data {
+             font-size: 28px !important;
+            }
+   
+            .students-scroll {
+              float: right;
+              width: 30% !important;
+              margin-right: 250px !important;
+         }
+   
+        .student img{
+          width: 80px !important;
+          height:130px !important;
+       }
+
+        .footer li {
+    color: #ffe100 !important;
+    font-size: 30px !important;
+    font-weight: bold !important;
+   display: initial !important;
+}
+
+    .slider-box-left img {
+                     margin-left: auto;
+                     margin-right: auto;
+                     width: 50%;
+                 }
+
+.footer2 li {
+
+    color: #f0d71b;
+    font-size: 23px  !important;
+
+}
+
+}
+
+
+@media screen and (max-width: 736px) {
+
+    .sub-address {
+            margin-left: 30px !important;
+            margin-bottom: 15px !important;
+            font-size: 12px !important;
+          }
+
+          /*.sub-title-name {
+            font-size: 16px !important;
+            padding-left: 20px !important;
+          }*/
+
+          .sub-title {
+               font-size: 12px !important;
+               margin-left: 50px !important;
+           }    
+
+           .title-name {
+                font-size: 20px !important;
+                padding-left: 20px !important;
+            }
+            .bna {
+               width: 62% !important;
+               margin-left: 50px !important;
+               margin-top: 10px !important;
+            }
+
+            .product-tap {
+                margin-top: 30px !important;
+            }
+
+            .page-header {
+                margin: 0px 0 20px !important;
+                text-align: center;
+                font-size: 25px !important;
+                padding-bottom: 17px !important;
+            }
+
+            .logo {
+                width: 20% !important;
+                float: left !important;
+            }
+
+            .logo img {
+                width: 100% !important;
+                margin-left: 0% !important;
+             }
+
+             .strip-inner li {
+                padding: 7px !important;
+             }
+
+             .inner-strip li {
+                padding: 7px !important;
+             }
+
+             .contact, .email{
+                margin-left: 0px !important;
+            }
+
+            .sub-title-names {
+                width: 80% !important;
+            }
+
+            .rated {
+             width: 75% !important;
+                margin-top: 10px !important;
+                margin-left: 60px !important;
+            }
+
+            .img-product {
+                width: 100% !important;
+                margin-left: 0% !important;
+            }
+
+            .other-courses {
+                margin-top: 15px !important;
+                 font-size: 25px !important;
+            }
+    
+            .slider-box li {
+             font-size: 25px !important;
+            }
+
+            .deal-content-sec p,.deal-content-sec1 p,.deal-content-sec2 p,.deal-content-sec3 p,.deal-content-sec4 p,.deal-content-sec5 p {
+                 font-size: 25px !important;
+             }
+ 
+             .deal-content-sec .ct-visit,.deal-content-sec1 .ct-visit,.deal-content-sec2 .ct-visit,.deal-content-sec3 .ct-visit,.deal-content-sec4 .ct-visit,.deal-content-sec5 .ct-visit {
+                 font-size: 25px !important;
+             }
+            
+              .slider-box-right .img-responsive {
+                  margin-left: auto;
+                 margin-right: auto;
+                 width: 50%;
+              }
+
+              .fee-structure {
+                   font-size: 20px !important;
+               } 
+              
+             .detail_data{
+                      font-size: 20px !important;
+                       text-align: justify;
+              }
+ 
+           .right-colcode {
+                background: none !important;
+              }
+
+              .end-colcode {
+                  background: none !important;
+                }
+           .row.rowPadng {
+             padding: 0px  !important;
+          }
+           .about-data {
+             font-size: 25px !important;
+            }
+
+          .students-scroll {
+              float: right;
+              width: 30% !important;
+              margin-right: 100px !important;
+         }
+         .student img{
+          width: 60px !important;
+          height:80px !important;
+       }
+
+              .footer li {
+    color: #ffe100 !important;
+    font-size: 30px !important;
+    font-weight: bold !important;
+   display: initial !important;
+    }
+
+    .slider-box-left img {
+                     margin-left: auto;
+                     margin-right: auto;
+                     width: 50%;
+                 }
+
+.footer2 li {
+
+    color: #f0d71b;
+    font-size: 20px  !important;
+
+}
+ }
+
+@media screen and (max-width: 480px) {
+
+          .sub-address {
+            margin-left: 30px !important;
+            margin-bottom: 15px !important;
+            font-size: 12px !important;
+          }
+
+          /*.sub-title-name {
+            font-size: 16px !important;
+            padding-left: 20px !important;
+          }*/
+
+          .sub-title {
+               font-size: 12px !important;
+               margin-left: 50px !important;
+           }    
+
+           .title-name {
+                font-size: 20px !important;
+                padding-left: 20px !important;
+            }
+            .bna {
+               width: 62% !important;
+               margin-left: 50px !important;
+               margin-top: 10px !important;
+            }
+
+            .product-tap {
+                margin-top: 30px !important;
+            }
+
+            .page-header {
+                margin: 10px 0 20px !important;
+                text-align: center;
+                font-size: 25px !important;
+                padding-bottom: 7px !important;
+            }
+
+            .logo {
+                width: 20% !important;
+                float: left !important;
+            }
+
+            .logo img {
+                width: 100% !important;
+                margin-left: 0% !important;
+             }
+
+             .right-colcode {
+                background: none !important;
+              }
+
+              .end-colcode {
+                  background: none !important;
+                }
+
+             .strip-inner li {
+                padding: 7px !important;
+             }
+
+             .inner-strip li {
+                padding: 7px !important;
+             }
+
+             .contact, .email{
+                margin-left: 0px !important;
+                font-size: 13px !important;
+            }
+
+            .sub-title-names {
+                width: 80% !important;
+            }
+
+            .rated {
+                width: 75% !important;
+                margin-top: 10px !important;
+                margin-left: 60px !important;
+            }
+
+            .img-product {
+                width: 100% !important;
+                margin-left: 0% !important;
+            }
+
+            .other-courses {
+                margin-top: 15px !important;
+                font-size: 18px !important;
+            }
+          
+               .strip-inner a {
+                   color: #fff !important;
+                   font-size: 11px !important;
+             }
+           
+              .slider-box li {
+                 font-size: 15px  !important; 
+             }
+            
+             .title-sec {
+                  font-size: 15px !important; ;
+             }
+              .deal-content-sec p,.deal-content-sec1 p,.deal-content-sec2 p,.deal-content-sec3 p,.deal-content-sec4 p,.deal-content-sec5 p {
+                 font-size: 12px !important;
+             }
+ 
+             .deal-content-sec .ct-visit,.deal-content-sec1 .ct-visit,.deal-content-sec2 .ct-visit,.deal-content-sec3 .ct-visit,.deal-content-sec4 .ct-visit,.deal-content-sec5 .ct-visit {
+                 font-size: 12px !important;
+             }
+            .page-header1 {
+                margin: 20px 0 20px !important;
+               text-align: center !important;
+               color: #4648c5 !important;
+               font-size: 20px !important;
+            }
+             .detail_data {
+                  font-size: 13px !important;
+                  text-align: justify;
+            }
+            .fee-structure {
+                font-size: 11px !important;
+           }
+          
+           .menu-header {
+              background: red;
+           }
+
+          .projects {
+             padding: 5px 0px;
+         }
+         .row.rowPadng {
+            padding: 0px  !important;
+        }
+        .about-data{
+                font-size: 12px !important;
+     }
+        .students-scroll {
+              float: right;
+              width: 30% !important;
+              margin-right: 100px !important;
+         }
+         
+        .student img{
+          width: 60px !important;
+          height:0px !important;
+       }
+       
+        .footer li {
+            color: #ffe100 !important;
+            font-size: 20px !important;
+            font-weight: bold !important;
+            display: initial !important;
+        }
+
+        .slider-box-left img {
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+
+        .footer2 li {
+            color: #f0d71b;
+            font-size: 20px  !important;
+        }
+}
